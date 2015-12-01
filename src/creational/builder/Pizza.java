@@ -3,6 +3,7 @@ package creational.builder;
 /**
  * Created by Hoàng on 12/1/2015.
  */
+/* "Product" */
 public class Pizza {
     private String dough;
     private String sauce;

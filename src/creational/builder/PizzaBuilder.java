@@ -3,6 +3,8 @@ package creational.builder;
 /**
  * Created by Hoàng on 12/1/2015.
  */
+
+/* "Builder" */
 abstract class PizzaBuilder {
     protected Pizza pizza;
 

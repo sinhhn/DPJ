@@ -3,6 +3,7 @@ package creational.builder;
 /**
  * Created by Hoàng on 12/1/2015.
  */
+/* "ConcreteBuilder" */
 public class SpicyPizzaBuilder extends PizzaBuilder {
     public void buildDough() {
         pizza.setDough("pan baked");
